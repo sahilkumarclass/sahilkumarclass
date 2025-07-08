@@ -1,23 +1,137 @@
-## 🏄‍♂️ SAHIL KUMAR 👋
+# <div align="center">👋 Hey there! I'm Sahil Kumar</div>
 
-**`Digital Craftsman (Developer/💻 Code, Coffee, and Creativity ☕️✨/💡 Crafting digital experiences with lines of code ✨)`**
-
-Aspiring Software Engineer with expertise in programming, problem-solving, and software development methodologies. Proficient in multiple programming languages and experienced in version control and object-oriented design. Strong understanding of data structures and algorithms. Skilled in web development with front-end and back-end technologies. Committed to continuous learning and team collaboration. Contributed to open-source projects and showcased personal software projects. Seeking opportunities to utilize skills and drive innovation in the technology industry.
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/sahil-kumar-16617224a/">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://portfolio-website-git-main-sahil-kumars-projects-e8fdf4c2.vercel.app/">
-      <img alt="Portfolio" title="Check out my portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-   <a href="https://www.instagram.com/_sahil2307/">
-      <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://leetcode.com/u/sahilkumarclass10/">
-      <img alt="LeetCode" title="LeetCode profile" src="https://img.shields.io/badge/LeetCode-Profile-important?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+<div align="center">
+  
+  <!-- Animated Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Digital+Craftsman;Full+Stack+Developer;Problem+Solver;Code+Coffee+Creativity!" />
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=sahilkumarclass10&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumarclass10" />
+  
+</div>
 
 ---
 
-🧰 Languages and Tools
+## 🚀 About Me
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/> <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"/> <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-<br /><br />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎓 **Aspiring Software Engineer** with expertise in programming and software development
+- 💻 **Digital Craftsman** crafting digital experiences with lines of code
+- 🌱 Currently mastering **Advanced Algorithms** and **System Design**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sahilkumarclass10)
+- 💬 Ask me about **Java, Spring, React, JavaScript, Data Structures**
+- 📫 How to reach me: **sahilkumarclass10@gmail.com**
+- ⚡ Fun fact: **I solve algorithms for breakfast and build web apps for lunch!**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
+</div>
+
+### 🚀 Frameworks & Libraries
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
+</div>
+
+### 🗄️ Databases & Cloud
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker" />
+</div>
+
+### 🔧 Development Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,android" />
+</div>
+
+---
+
+## 🏆 Professional Journey
+
+### 💼 Aspiring Software Engineer
+
+**Continuous Learning & Development**
+
+- 🎯 **Focus**: Building scalable web applications and solving complex problems
+- ⚡ **Skills**: Strong understanding of data structures and algorithms
+- 🔄 **Experience**: Contributed to open-source projects and personal software development
+- 🏗️ **Architecture**: Proficient in object-oriented design and software development methodologies
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilkumarclass10&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilkumarclass10&theme=radical&hide_border=true" />
+  
+  <br/>
+  
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarclass10&layout=compact&theme=radical&hide_border=true" />
+  
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-16617224a/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilkumarclass10)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-git-main-sahil-kumars-projects-e8fdf4c2.vercel.app/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sahil2307/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahilkumarclass10/)
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkumarclass10&bg_color=0d1117&color=708090&line=24bcd4&point=ffdf00&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+<div align="center">
+
+🔭 **Currently Building**: Personal software projects and web applications
+
+🌱 **Learning**: Advanced System Design & Cloud Technologies
+
+👯 **Looking to collaborate on**: Open-source projects & innovative software solutions
+
+🤔 **Seeking help with**: Advanced algorithms & software architecture patterns
+
+💬 **Ask me about**: Java, Spring Framework, React, JavaScript, Data Structures & Algorithms
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎯 "Crafting digital experiences with lines of code, one commit at a time"
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
+  ---
+  
+  **⭐ Star my repositories if you find them useful!**
+  
+  <img src="https://raw.githubusercontent.com/sahilkumarclass10/sahilkumarclass10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
