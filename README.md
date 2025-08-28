@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Digital+Craftsman;Full+Stack+Developer;Problem+Solver;Code+Coffee+Creativity!" />
   
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=sahilkumarclass10&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumarclass10" />
+  <img src="https://komarev.com/ghpvc/?username=sahilkumarclass&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumarclass" />
   
 </div>
 
@@ -73,12 +73,12 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilkumarclass10&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilkumarclass10&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilkumarclass&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilkumarclass&theme=radical&hide_border=true" />
   
   <br/>
   
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarclass10&layout=compact&theme=radical&hide_border=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarclass&layout=compact&theme=radical&hide_border=true" />
   
 </div>
 
@@ -87,10 +87,10 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-16617224a/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilkumarclass10)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilkumarclass)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-git-main-sahil-kumars-projects-e8fdf4c2.vercel.app/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sahil2307/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahilkumarclass10/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahilkumarclass/)
   
 </div>
 
@@ -99,7 +99,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkumarclass10&bg_color=0d1117&color=708090&line=24bcd4&point=ffdf00&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkumarclass&bg_color=0d1117&color=708090&line=24bcd4&point=ffdf00&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -132,6 +132,6 @@
   
   **⭐ Star my repositories if you find them useful!**
   
-  <img src="https://raw.githubusercontent.com/sahilkumarclass10/sahilkumarclass10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sahilkumarclass/sahilkumarclass/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
 </div>
