@@ -19,7 +19,7 @@
 - 🎓 **Aspiring Software Engineer** with expertise in programming and software development
 - 💻 **Digital Craftsman** crafting digital experiences with lines of code
 - 🌱 Currently mastering **Advanced Algorithms** and **System Design**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sahilkumarclass10)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sahilkumarclass)
 - 💬 Ask me about **Java, Spring, React, JavaScript, Data Structures**
 - 📫 How to reach me: **sahilkumarclass10@gmail.com**
 - ⚡ Fun fact: **I solve algorithms for breakfast and build web apps for lunch!**
